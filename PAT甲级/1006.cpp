@@ -1,5 +1,5 @@
 /*
-ע��scanf�ĸ�ʽ�������ַ���
+注意scanf的格式化输入字符串
 */ 
 #include<iostream>
 #include<string>
