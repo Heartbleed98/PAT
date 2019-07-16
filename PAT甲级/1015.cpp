@@ -47,11 +47,11 @@ int main()
             exp++;
         }
         
-        // 另一种n进制转换为十进制的方法 
+        // 锟斤拷一锟斤拷n锟斤拷锟斤拷转锟斤拷为十锟斤拷锟狡的凤拷锟斤拷 
 		// int revNum = 0;
 		// for(int i = 0; i < v1.size(); i++) {
 		// revNum = revNum * radix + v1[i];
-		}
+		
         
         if(isPrime(result)) printf("Yes\n");
         else printf("No\n");

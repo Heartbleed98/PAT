@@ -46,10 +46,10 @@ int main()
 		for(int j = 1; j < K; j++)
 		{
 			if(minFinish > window[j])
-				{
-					minFinish = window[j];
-					tmpIndex = j;	
-				}
+			{
+				minFinish = window[j];
+				tmpIndex = j;	
+			}
 		}	
 		if(window[tmpIndex] <= v1[i].coming)
 			window[tmpIndex] = v1[i].coming + v1[i].time;
