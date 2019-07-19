@@ -1,7 +1,7 @@
 /*
 图的邻接表表示（可节省空间）
 求连通分量个数
-DFS（邻接表）
+邻接表的DFS
  */
 #include<iostream>
 #include<vector>
